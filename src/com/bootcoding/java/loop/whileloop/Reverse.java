@@ -3,6 +3,9 @@ package com.bootcoding.java.loop.whileloop;
 public class Reverse {
     public static void main(String[] args) {
 
+
+
+
         int num = 121;
         int temp = num;
         int rev = 0 ;
