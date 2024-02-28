@@ -1,4 +1,4 @@
-package com.bootcoding.java.method.math;
+package com.bootcoding.java.method.math_methods;
 
 public class MathOperation {
     public static void main(String[] args) {
